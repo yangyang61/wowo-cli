@@ -1,5 +1,5 @@
 {
-  "name": "wowo-cli",
+  "name": "@0xyy/wowo-cli",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
